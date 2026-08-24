@@ -61,6 +61,16 @@ const EventPlanner = () => {
                     <li>Reminders and notifications</li>
                 </ul>
             </section>
+            <section className="testimonials">
+                <h2>Testimonials</h2>
+                <div className="testimonial">
+                    <p>"Event Planner made organizing my wedding a breeze. Highly recommended!"</p>
+                    <p className="author">- Emily Johnson</p>
+                </div>
+            </section>
+            <section className="contact">
+                
+            </section>
         </div>
     );
 };
